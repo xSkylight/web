@@ -1,0 +1,2 @@
+/* some changes need for migration to static version purposes ie hiding php based searching form */
+.footerwidget {display:none !important;} 
